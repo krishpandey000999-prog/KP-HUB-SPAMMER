@@ -1,7 +1,7 @@
 --// KP SPAMMER V3 (REAL CHAT SENDER)
 --// Place in StarterPlayerScripts
 print("KP HUB SPAMMER Loaded Successfully!")
-
+sendChat("KP HUB SPAMMER Loaded Successfully!")
 local Players = game:GetService("Players")
 local TextChatService = game:GetService("TextChatService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
